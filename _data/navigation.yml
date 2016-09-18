@@ -1,8 +1,14 @@
 - title: about
   url: /me
 
+- title: explain
+  url: /blog/explain
+
+- title: build
+  url: /me/build
+
 - title: github
-  url: https://github.com/getmicah
+  url: https://github.com/tdeneke
 
 - title: twitter
-  url: https://twitter.com/getmicah
+  url: https://twitter.com/tdeyjustsayin
