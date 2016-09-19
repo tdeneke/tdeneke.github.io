@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Switching from Ghost to Jekyll
+title: Setting Up Jekyll
+category: build
 ---
 
 **TL;DR** Use [Jekyll and Github Pages](https://help.github.com/articles/about-github-pages-and-jekyll/) for a cheap and maintainable blog.

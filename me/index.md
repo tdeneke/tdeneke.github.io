@@ -5,7 +5,7 @@ layout: about
 Hello, I'm Tedy. This is where I save and share things I find interesting.
 
 # What do you do?
-I am a researcher at Åbo Akademi. I All the code I write is on my
+I am a researcher at Åbo Akademi. All the code I write is on my
 [Github](https://github.com/tdeneke).
 
 # What programming languages do you use?

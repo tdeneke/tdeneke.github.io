@@ -1,6 +1,9 @@
-# Blog settings
+# Blog 
 permalink: /blog/:title
 
+categories:
+    - explain
+    - build
 
 # My variables
 name: Tedy
