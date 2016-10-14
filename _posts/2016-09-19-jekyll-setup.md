@@ -31,3 +31,5 @@ So why did I switch to Jekyll? Simply the speed and price. The free hosting, sta
 <br>
 
 For more information about Jekyll, check out the [Docs](https://jekyllrb.com/docs/home/).
+
+Till next time!
