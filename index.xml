@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.D.</title>
+    <link>https://deneket.github.io/</link>
+    <description>Recent content on T.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2022, Tewodros Deneke</copyright><atom:link href="https://deneket.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://deneket.github.io/about/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://deneket.github.io/about/</guid>
+      <description>My interests lie at the intersection between computing and data-intensive applications. I explore ways of efficiently utilizing computing platforms with specialized hardware like GPUs for deep learning, video processing, and big data analytics. Lately, I have been working with several researchers on their computing environment needs, designing, developing, and assisting them on how to efficiently utilize HPC and Cloud platforms with specialized hardware like GPUs. I have also been involved in European projects related to federated machine learning and workflow engines 1 2.</description>
+    </item>
+    
+  </channel>
+</rss>
