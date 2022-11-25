@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on T.D.</title>
-    <link>https://deneket.github.io/categories/</link>
+    <link>https://tdeneke.github.io/categories/</link>
     <description>Recent content in Categories on T.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2022, Tewodros Deneke</copyright><atom:link href="https://deneket.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2022, Tewodros Deneke</copyright><atom:link href="https://tdeneke.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
