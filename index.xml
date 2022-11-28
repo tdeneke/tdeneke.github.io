@@ -8,6 +8,41 @@
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2022, Tewodros Deneke</copyright><atom:link href="https://tdeneke.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>https://tdeneke.github.io/publications/</link>
+      <pubDate>Sun, 30 Oct 2022 20:04:38 -0600</pubDate>
+      
+      <guid>https://tdeneke.github.io/publications/</guid>
+      <description>Publications   Dynamic Process Intensification via Data-Driven Dynamic Optimization: Concept and Application to Ternary Distillation, IECR, 2021.Lingqing Yan, Tewodros L. Deneke, Keijo Heljanko, Iiro Harjunkoski,Thomas F. Edgar, and Michael Baldea. 
+  Synergistic and Intelligent Process Optimization – First Results and Open Challenges, IECR, 2020.Iiro Harjunkoski, Teemu Ikonen, Hossein Mostafaei, Tewodros Deneke, Keijo Heljanko. 
+  Data-Driven Approach to Grade Change Scheduling Optimization in a Paper Machine, IECR, 2020.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://tdeneke.github.io/education/</link>
+      <pubDate>Sun, 30 Oct 2022 20:13:16 -0500</pubDate>
+      
+      <guid>https://tdeneke.github.io/education/</guid>
+      <description>Academia  Ph.D., Embedded Computing (2017)
+Åbo Akademi University, FI  MSc., Embedded Computing (2012)
+Åbo Akademi University, FI  BSc., Electrical Engineering (2007)
+Bahir Dar University, ET   Teaching  Big Data Platforms, Main Teaching Assistant (2020)
+University of Helsinki, Computer Science Department, FI  Concurrent Programming, Main Teaching Assistant (2019)
+Aalto University, Computer Science Department, FI  Multimedia Algorithms and Implementation, Teaching Assistant (2013)
+Åbo Akademi University, Embedded Systems Lab, FI   Trainings  Pouta Cloud: Practical Cloud Computing Course, Trainer (2021)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tdeneke.github.io/projects/</link>
+      <pubDate>Sun, 30 Oct 2022 20:04:38 -0500</pubDate>
+      
+      <guid>https://tdeneke.github.io/projects/</guid>
+      <description>Projects  EOSC-Nordic: a project that aims to facilitate the coordination of European Open Science Cloud (EOSC). (2022) EOSC-Nordic, EU  Singpro: a project that aims to merge Big Data platforms, machine learning and data analytics methodologies with process planning and scheduling optimization technologies. (2020) Academy of Finland, FI  EIT BDExp: a project having as main goal the development of a viable business model for EASYTRANS, an efficient media transcoding platform.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://tdeneke.github.io/about/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
